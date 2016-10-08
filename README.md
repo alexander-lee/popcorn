@@ -1,4 +1,4 @@
-# Tipster
+# Popcorn
 
 Popcorn is an iOS app that checks the [Movies Database API](https://developers.themoviedb.org/3) to shows the currently playing movies
 
